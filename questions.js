@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Para os filósofos gregos o que se refere felicidade?",
+    answer: "Ações boas que conduzem a felicidade",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "sofrimento",
+      "ações de má conduta",
+      "ações boas que conduzem a felicidade",
+      "estado momentâneo"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Para o utilitarismo, a finalidade das ações humanas é o?",
+    answer: "direito",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "prazer",
+      "trabalho",
+      "direito",
+      "salvação"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Segundo Kant, a mentira utiliza qualquer que seja sua motivações, jamais passaria pelo crivo do:?",
+    answer: "autorismo",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "imperativo desfuncional",
+      "autorismo",
+      "autobservação"
+      imperativo categórico
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
-    options: [
-      "12",
-      "11",
-      "14",
-      "13"
+    question: "Na filosofia cristã para eles a salvação?",
+    answer: "telos",
+     options: [
+      "gregos",
+      "medievais",
+      "telos",
+      "utilitaristas"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "A deontologia Kantiana se põe a tradição?",
+    answer: "Ética",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "ética",
+      "padrõs morais",
+      "antiético",
+      "impertinente"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
